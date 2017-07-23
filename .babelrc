@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["latest", {
+      "es2015": {
+        "modules": false
+      }
+    }]
+  ]
+  // 轉碼時不輸出註解文字
+  // "comments": false
+}
